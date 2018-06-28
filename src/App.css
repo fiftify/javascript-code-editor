@@ -1,0 +1,17 @@
+.CodeMirror {
+        font-size: 2em;
+        font-weight: 700;
+        font-family: Lato,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Open Sans","Helvetica Neue",sans-serif;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.previewPanel {
+flex:1;
+}
+.jsEditor {
+flex:1;
+}
